@@ -5,7 +5,7 @@
     font-family: 'Inter Regular', sans-serif;
     font-size: 18px;
     line-height: 161%;
-   
+
     color: #FFFFFF;
 }
 
@@ -23,10 +23,9 @@
     }
 }
 
-
 @media screen and (max-width: 768px) {
     .place__paragraph {
-        font-size: calc(0.52vw + 12px); 
+        font-size: calc(0.52vw + 12px);
         line-height: 2.75vh;
         margin-left: 28px;
     }
@@ -45,6 +44,6 @@
 
 @media screen and (max-width: 320px) {
     .place__paragraph {
-        font-size: calc(5.05vw); 
+        font-size: calc(5.05vw);
     }
 }
