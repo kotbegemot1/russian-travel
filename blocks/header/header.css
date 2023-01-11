@@ -1,0 +1,28 @@
+.header {
+    margin: 0 auto;
+    width: 93.5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 28px;
+}
+
+@media screen and (max-width: 1024px) {
+    .header {
+        width: 91.9%;
+    }
+} 
+
+@media screen and (max-width: 768px) {
+    .header {
+        width: 93.5%;
+        padding-top: calc(1.5vw + 15px);
+    }
+} 
+
+@media screen and (max-width: 320px) {
+    .header {
+        padding-top: calc(0.2vw + 17px);
+        width: 90%;
+    }
+} 
