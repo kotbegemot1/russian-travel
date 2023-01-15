@@ -1,4 +1,4 @@
-.lead__caption {
+.figure__caption {
   margin: 8px 0 0;
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -12,13 +12,13 @@
 }
 
 @media screen and (max-width: 768px) {
-  .lead__caption {
+  .figure__caption {
     margin-left: 24px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .lead__caption {
+  .figure__caption {
     margin-left: 16px;
   }
 }
