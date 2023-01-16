@@ -26,7 +26,7 @@
 
 .cover__background:hover::after {
     background: #2A2C2F;
-    opacity: .7;
+    opacity: .8;
 }
 
 @media screen and (max-width: 1024px) {

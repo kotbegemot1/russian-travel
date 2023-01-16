@@ -5,7 +5,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
+  line-height: 106%;
   letter-spacing: .022em;
 
   color: #FFFFFF;
@@ -15,7 +15,7 @@
   .place__title {
     width: 47.5%;
     font-size: 7vw;
-    line-height: 8vh;
+    line-height: 106%;
   }
 }
 
@@ -23,7 +23,7 @@
   .place__title {
     width: 47%;
     font-size: calc(2.4vw + 1.46em);
-    line-height: 4.6vh;
+    line-height: 110%;
 
   }
 }

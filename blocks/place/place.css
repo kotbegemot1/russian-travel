@@ -4,18 +4,13 @@
 
 @media screen and (max-width: 768px) {
   .place {
-    padding-top: 73px;
+    padding-top: 71px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .place {
-    padding-top: 40px;
+    padding-top: 50px;
   }
 }
 
-@media screen and (max-width: 320px) {
-  .place:first-of-type {
-    margin-bottom: 27px;
-  }
-}
